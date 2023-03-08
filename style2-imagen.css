@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #131839;
+    color: white;
+}
+.container {
+    display: grid;
+    grid-template-rows: 70px auto;
+}
+.nav {
+    border: 5px solid yellow;
+}
+.main {
+
+    <nav class="menu">
+    
+    <ul>
+      <li><a href="#">:hone</a></li>
+      
+      
+      
+      
+      
+      <li><a href="#">Sobre nosotros</a></li>
+     
+     
+     
+     
+     
+      <li><a href="#">Contacto</a></li>
+    
+    
+    
+    
+    
+      </ul>
+  
+  
+  
+  
+    </nav>
+
+ 
+    
+
+
+
+
+   background-color: aqua;
+}
+
+.main_content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.contacto {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.formulario {
+
+   border:5px solid pink;
+}
+
+.principal {
+
+    border:5px solid rgb(34, 149, 175);
+}
+.imagen {
+
+   border:5px solid orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
